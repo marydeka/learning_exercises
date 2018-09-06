@@ -1,0 +1,31 @@
+h1 {
+	/*color: #784FAB;*/
+
+	/*color: rgba(0,200,70, .6);
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px purple solid;
+}
+
+	/*border has three properties: width, color, and style*/
+
+h4 {
+	background: rgb(255,100,80)
+}
+
+body {
+	background: pink;
+	/*background: url(https://media.istockphoto.com/photos/olive-wood-grain-pattern-background-picture-id481394584?k=6&m=481394584&s=612x612&w=0&h=B6uuBd6mhsgVQr98qZgkYzTyWH_Tk28njtkB-Wqb1QA=);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+/*li {
+	color: green;
+}
+
+h4 {
+	color: purple;
+}*/
