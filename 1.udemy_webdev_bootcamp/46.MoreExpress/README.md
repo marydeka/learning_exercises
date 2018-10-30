@@ -1,4 +1,4 @@
-# Practice with Express, EJS, partials, and including public assets*(Webdev Bootcamp, Section 26)*
+# Practice with Express, EJS, partials, and including public assets *(Webdev Bootcamp, Section 26)*
 
 *esjdemo*
 
