@@ -1,4 +1,4 @@
-# Practice with NPM: Node Package Manager (WebDev Bootcamp, Section 24)
+# Practice with NPM: Node Package Manager *(WebDev Bootcamp, Section 24)*
 
 * Created file app.js
 * Used NPM to install packages "knock-knock-jokes" and "cat-me"
