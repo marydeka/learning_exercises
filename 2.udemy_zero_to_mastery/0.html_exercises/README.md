@@ -1,0 +1,23 @@
+# Review of html *(Udemy: The Complete Web Developer, Sections 4 and 5)*
+
+- HTML tags
+	- <a> (anchor)
+	- <select>
+	- <option>
+	- <form>
+	- ...
+- Self-closing HTML tags
+	- <img> (image)
+	- <br>
+- HTML forms
+	- input types:
+		- text
+		- email
+		-password
+		-date
+		- radio
+		- checkbox
+		- submit
+		- reset
+	-name and value attributes
+		-whatever the value assigned to the name or value attribute will be added to query string in url

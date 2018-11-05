@@ -1,0 +1,32 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+	color: rgb(84,87,23);
+	font-size: 6em;
+	text-align: center;
+	padding-top: 100px;
+	margin-bottom: 0px;
+}
+
+body {
+  font-family: 'Dancing Script', cursive;
+  background-image: url("https://images.unsplash.com/photo-1521905835570-c0e28d62018e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=158b6b752aed9507b7e03293a53b5fed&auto=format&fit=crop&w=1411&q=80");
+}
+
+#mc-embedded-subscribe {
+	background-color: rgba(187,184,82,0.5);
+	margin-left: 370px;
+	margin-top: 60px;
+	color: rgb(84,87,23);
+	font-family: 'Dancing Script', cursive;
+	font-size: 1.3em;
+	border: none;
+}
+
+.btn btn-success:hover {
+	cursor: pointer;
+}

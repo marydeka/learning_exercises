@@ -1,0 +1,45 @@
+/*Selector {
+	Property: value;
+}*/
+
+* {
+	text-align: 45, 88, 12
+}
+
+body {
+	background-image: url(forest1.jpg);
+	background-size: cover;
+}
+
+h2, p {
+	color: #42890B;
+	text-align: center;
+	border: 5px solid rgba(156, 199, 123, 0.5);
+	cursor: pointer;
+}
+
+p{
+	color: pink;
+}
+
+p {
+	color: green;
+	font-family: 'Srisakdi', cursive;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext {
+	border: 3px solid rgb(188, 223, 161);
+}
+
+#div1 {
+	background-color: rgba(45, 88, 12, 0.1);
+}
+
+img {
+	float: left;
+}
