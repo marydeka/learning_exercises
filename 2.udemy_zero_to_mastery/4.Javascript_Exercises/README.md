@@ -1,4 +1,4 @@
-# Practice with javascrip *(Udemy: The Complete Web Developer, Section 10)*
+# Practice with javascript *(Udemy: The Complete Web Developer, Section 10)*
 
 *Created a "facebook app"*
 ******
